@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: google.ishimori.yuki.2
+    name: google.ishimori.yuki
     env: python
     region: Oregon
     plan: free
