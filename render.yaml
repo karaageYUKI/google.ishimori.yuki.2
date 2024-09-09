@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: google-ishimori-yuki
+    name: 10503020-google
     env: python
     region: Oregon
     plan: free
